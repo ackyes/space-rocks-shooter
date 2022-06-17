@@ -21,6 +21,7 @@
     {"id":{"name":"rm_Start","path":"rooms/rm_Start/rm_Start.yy",},"order":1,},
     {"id":{"name":"rm_Win","path":"rooms/rm_Win/rm_Win.yy",},"order":3,},
     {"id":{"name":"obj_screenshake","path":"objects/obj_screenshake/obj_screenshake.yy",},"order":10,},
+    {"id":{"name":"Effects","path":"scripts/Effects/Effects.yy",},"order":0,},
     {"id":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},"order":5,},
     {"id":{"name":"rm_Game","path":"rooms/rm_Game/rm_Game.yy",},"order":7,},
   ],
